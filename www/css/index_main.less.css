@@ -419,3 +419,6 @@ body:not(#afui) .upage-outer {
   margin: -10px -15px;
   box-sizing: content-box;
 }
+.ui-btn-hidden {
+  display: none;
+}
